@@ -1,0 +1,34 @@
+## Git Learning 01
+1. Git download：
+
+2. Git基本工作流程
+    - 工作区(Working Directory)->暂存区->Git Repository
+    
+3. 初始化一个新的Git仓库
+    - 创建文件夹: (1.快捷键：右键->W->F or 2. 右键->Git bash->输入:mkdir+文件名)
+    - 在文件内初始化git(创建git仓库): 右键->Git bash->输入:cd+文件名; 右键->Git bash->输入:git init; (生成的git文件为隐藏文件)
+
+4. 向仓库添加文件
+    - 创建文件:右键->Git bash->输入:touch 文件名.java
+    - 查看状态(选择执行):右键->Git bash->输入:git status
+    - 添加到暂存区:右键->Git bash->输入:git add 文件名.java
+    - 查看状态(选择执行):右键->Git bash->输入:git status
+    - 将文件从暂存区添加到仓库右键->Git bash->输入:git commit -m '描述'
+    - 查看状态(选择执行):右键->Git bash->输入:git status
+    
+
+5. 修改仓库文件
+    - 修改文件:1.右键->Git bash->输入:vi 文件名.java or 2.手动打开文件并修改
+    - 预览文件：右键->Git bash->输入:cat 文件名.java
+    - 查看状态(选择执行):右键->Git bash->输入:git status
+    - 添加到暂存区:右键->Git bash->输入:git add 文件名.java
+    - 查看状态(选择执行):右键->Git bash->输入:git status
+    - 将文件从暂存区添加到仓库右键->Git bash->输入:git commit -m '描述'
+    - 查看状态(选择执行):右键->Git bash->输入:git status
+    
+
+5. 删除仓库文件
+    - 删除文件: delete or 右键->Git bash->输入:rm -rf 文件名.java
+    - 从暂存区删除:右键->Git bash->输入:git rm 文件名.java  (特别注意此处不同)
+    - 将文件从暂存区添加到仓库右键->Git bash->输入:git commit -m '描述'
+    
