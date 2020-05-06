@@ -21,5 +21,3 @@
 ***
 [Learn from bilibili](https://b23.tv/tFLKA5)
 
-***
-[Learn from bilibili](https://b23.tv/tFLKA5)
