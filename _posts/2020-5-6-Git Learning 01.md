@@ -19,12 +19,9 @@
 
 5. 修改仓库文件
     - 修改文件:1.右键->Git bash->输入:vi 文件名.java or 2.手动打开文件并修改
-    - 预览文件：右键->Git bash->输入:cat 文件名.java
-    - 查看状态(选择执行):右键->Git bash->输入:git status
+    - 预览文件(选择执行)：右键->Git bash->输入:cat 文件名.java
     - 添加到暂存区:右键->Git bash->输入:git add 文件名.java
-    - 查看状态(选择执行):右键->Git bash->输入:git status
     - 将文件从暂存区添加到仓库右键->Git bash->输入:git commit -m '描述'
-    - 查看状态(选择执行):右键->Git bash->输入:git status
     
 
 5. 删除仓库文件
