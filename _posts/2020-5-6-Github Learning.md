@@ -1,5 +1,9 @@
 ## Github Learning
 1. 基本概念：
-    - Repository(仓库):仓库用来存放项目代码，每个项目对应一个仓库  
-2. 基本概念：
-    - Star
+    - Repository(仓库):仓库用来存放项目代码，每个项目对应一个仓库
+    - Star(收藏)
+    - Fork(复制克隆项目)：(fork项目独立存在)
+    - Pull request(PR)
+    - Watch:(可收到项目的更新提醒）
+    - Issue
+    - 
