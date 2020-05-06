@@ -36,3 +36,22 @@
     - 将新添文件添加到暂存区:右键->Git bash->输入:git add 文件名.java
     - 将文件从暂存区添加到仓库:右键->Git bash->输入:git commit -m '描述'
     - 将新添文件上传到远程仓库:右键->Git bash->输入:git push
+    
+7. Github搭建个人网站
+    - 创建个人站点：新建仓库(注：仓库名必须是【用户名.github.io】)
+    - 在仓库下新建index.html的文件即可
+    - 注意点：1.github pages 仅支持静态网页
+             2.仓库里面只能是.html文件
+    - 个人网站:https://dovevee.github.io
+    
+8. Github搭建项目网站
+    - 进入项目主页，点击setting
+    - 在setting页面，点击【Launch automatic page generator】来自动生成主题页面
+    - 新建站点基础信息设置
+    - 选择主题
+    - 生成网页
+    
+    
+
+
+    
