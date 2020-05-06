@@ -34,5 +34,5 @@
     - Git克隆操作: 右键->Git bash->输入:git clone 仓库地址
     - 往文件夹中添加文件(特别注意是否需要cd)
     - 将新添文件添加到暂存区:右键->Git bash->输入:git add 文件名.java
-    - 将文件从暂存区添加到仓库右键->Git bash->输入:git commit -m '描述'
+    - 将文件从暂存区添加到仓库:右键->Git bash->输入:git commit -m '描述'
     - 将新添文件上传到远程仓库:右键->Git bash->输入:git push
