@@ -6,4 +6,14 @@
     - Pull request(PR)
     - Watch:(可收到项目的更新提醒）
     - Issue
-    - 
+
+2. 仓库管理：
+    - 新建文件
+    - 编辑文件
+    - 删除文件
+    - 上传文件
+    - 搜索文件:(快捷键T)
+    
+3. Github issue：
+    - New issues
+    
